@@ -31,4 +31,4 @@ def fib_memo(n, memo=None):
     return memo[n]
 
 
-print(fib_memo(500))
+print(fib_memo(500))print(fib(5), fib_din(5))
